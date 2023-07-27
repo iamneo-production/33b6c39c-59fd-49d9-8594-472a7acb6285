@@ -1,0 +1,67 @@
+.top{
+    background-image: url("https://wallpapers.com/images/hd/professional-powerpoint-background-5760-x-3240-inln0cpbd8dhfqnm.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+}
+.topic{
+    margin-left: 35vw;
+    flex-direction: left;
+    margin-top: 250px;
+    font-size: 30px;
+    color:rgb(29, 138, 234);
+}
+.topic2{
+    margin-left: -5vw;
+    margin-top: 350px;
+    flex:left;
+    font-size: 30px;
+    color:rgb(245, 112, 236);
+}
+.box{
+    margin-top: 120px;
+    margin-left: 4vw;
+    flex:right;
+    width: 350px;
+    height: 580px;
+    border-radius: 2%;
+    color: rgb(107, 178, 240);
+    background-image: url("https://media.istockphoto.com/id/1225810113/vector/abstract-hand-drawn-watercolor-background-painted-with-watercolor-with-splashes-there-is.jpg?s=612x612&w=0&k=20&c=1opAnYqWFb7bR9hhUnkhOkw_gCnxRJAyl4C3X_zxcSE=");
+    background-size: cover;
+    box-shadow: rgb(7, 21, 36) 0px 20px 30px -10px;
+    font-family: cursive;
+    position:relative;
+}
+.row1{
+    color:rgb(245, 112, 236);
+    font-size: larger;
+    font-family: cursive;
+    color: rgb(8, 131, 238);
+}
+.input1{
+    border-color: rgb(242, 106, 201);
+    width: 250px;
+    height: 30px;
+    font-family: cursive;
+    color:rgb(78, 96, 227);
+}
+.btn-btn-primary{
+    width: 75px;
+    height: 30px;
+    font-family: cursive;
+    color: rgb(217, 46, 192);
+    color:black;
+
+}
+.btn-btn-primary:hover:not(.active){
+    width: 75px;
+    height: 30px;
+    background-color: rgb(251, 250, 249);
+    font-family: cursive;
+    color: rgb(243, 56, 183);
+}
+p{
+    font-size: 11px;
+}
